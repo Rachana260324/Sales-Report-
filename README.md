@@ -1,9 +1,9 @@
 📊 Sales Analysis Dashboard – Power BI
-📌 Project Overview
+**1.Project Overview**
 
 This project showcases an interactive Sales Analysis Dashboard built using Power BI, designed to help stakeholders monitor sales performance, identify trends, and make data-driven decisions. The dashboard provides clear insights into revenue, sales growth, top-performing products, and regional performance.
 
-🛠️ Tools & Technologies
+**2.Tools & Technologies**
 
 Power BI
 
@@ -17,7 +17,7 @@ DAX
 
 Excel / CSV (Data Source)
 
-📂 Dataset
+**3.Dataset**
 
 Sales transaction data including:
 
@@ -35,7 +35,7 @@ Quantity Sold
 
 (Sample or anonymized data used for demonstration purposes)
 
-🔄 Data Preparation (ETL)
+**4. Data Preparation (ETL)**
 
 Cleaned and transformed raw data using Power Query
 
@@ -45,7 +45,7 @@ Created calculated columns and measures using DAX
 
 Modeled relationships between fact and dimension tables
 
-📈 Dashboard Features
+**5. Dashboard Features**
 
 Total Sales & Profit KPIs
 
@@ -59,7 +59,7 @@ Interactive Filters & Slicers
 
 Dynamic Visuals for better insights
 
-📊 Key Insights
+**6. Key Insights**
 
 Identified high-revenue regions and top-selling products
 
@@ -69,12 +69,11 @@ Compared profit vs sales across categories
 
 Enabled quick decision-making using visual KPIs
 
-🚀 How to Use
+**7.Dashboard screenshot**
 
-Download the .pbit / .pbix file from this repository
 
-Open it in Power BI Desktop
 
-Refresh data (if connected to a source)
+
+
 
 Interact with filters and visuals to explore insights
