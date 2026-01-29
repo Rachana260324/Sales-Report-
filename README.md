@@ -70,7 +70,6 @@ Compared profit vs sales across categories
 
 Enabled quick decision-making using visual KPIs
 
-**7.Dashboard screenshot**
 
 
 
